@@ -1,0 +1,21 @@
+body {
+	font-size: 30px;
+	font-family: Helvetica;
+	color: #FFF600;
+	background-image: url("../images/stars.jpg");
+	text-align: center;
+}
+
+h1 {
+	margin: 0px;
+}
+
+img {
+	max-width: 50%;
+}
+
+p {
+	margin-left: 25%;
+	width: 50%;
+	background: #8C92AC; /*cool grey*/
+}
