@@ -1,0 +1,16 @@
+body {
+	font-size: 20px;
+	font-family: Helvetica;
+	color: #FFF600;
+	background-image: url("../images/stars.jpg");
+	text-align: center;
+}
+
+h1 {
+	font-size:30px;
+	margin: 0px;
+}
+
+img {
+	max-width: 50%;
+}
