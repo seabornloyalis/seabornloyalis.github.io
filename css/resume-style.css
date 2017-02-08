@@ -21,3 +21,7 @@ ul {
 	margin-left: 25%;
 	width: 50%;
 }
+
+.sublist {
+	list-style-type: square;
+}
